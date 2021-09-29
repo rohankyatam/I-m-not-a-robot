@@ -147,7 +147,6 @@ function resetclick(){
     }
     count=0;
     but1.remove();
-    verifybtn.remove();
     first.remove();
     second.remove();
     third.remove();
